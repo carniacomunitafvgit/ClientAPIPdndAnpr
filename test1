@@ -1,0 +1,11 @@
+{
+  "idOperazioneClient": "12",
+  "criteriRicerca": {
+    "codiceFiscale": "PIPPOPO"
+  },
+  "datiRichiesta": {
+    "dataRiferimentoRichiesta": "2025-01-01",
+    "casoUso": "C030",
+    "motivoRichiesta": "test"
+  }
+}
